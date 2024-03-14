@@ -10,14 +10,14 @@
 
 1. Клонирование репозитория:
 
-    
+    ```bash
     git clone git@github.com:aslelekova/DockerTask.git
     cd DockerTask
     
 
 2. Запуск приложения:
 
-    
+    ```bash
     docker-compose up -d
     
 
